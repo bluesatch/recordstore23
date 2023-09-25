@@ -17,14 +17,6 @@ body {
     background-color: #005a9c;;
 }
 
-.card-title {
-    text-transform: capitalize;
-}
-
-.card-text {
-    text-transform: capitalize;
-}
-
 .cart-btn {
     color: whitesmoke;
     text-transform: capitalize;
@@ -32,6 +24,6 @@ body {
 }
 
 .address-list {
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
